@@ -31,6 +31,6 @@ The file /dev/ttyUSB0 is from group 'dialout', so you have to add it to your use
 <h2>The examples</h2>
 <p>This examples were primarly impired in the code from (https://www.arduino.cc)</p>
 
-1. blink_led_with_potentiometer is just a potentiometer increasing the blink ratio from a led.
+1. blink_led_with_potentiometer - A potentiometer increasing the blink ratio from a led.
 
-2. toneMelody is part of the bobble bubble song.
+2. toneMelody - Part of the bubble bobble main song.
